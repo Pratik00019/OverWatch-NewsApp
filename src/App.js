@@ -22,7 +22,7 @@ function App() {
   }
   return (
     <div style={{backgroundImage:"url('https://thumbs.dreamstime.com/b/black-white-repeating-torn-newspaper-background-continuous-pattern-left-right-up-down-black-white-repeating-torn-133864679.jpg')"}}>
-      <Router>
+      <Router basename='/OverWatch-NewsApp'>
         <LoadingBar
           height={2}
           color='#f11946'
