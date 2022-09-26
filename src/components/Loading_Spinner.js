@@ -6,7 +6,7 @@ export class Loading_Spinner extends PureComponent {
   render() {
     return (
     <div className='text-center'>
-        <img src={loading} alt='' width="69 px"></img>
+        <img className='my-3' src={loading} alt='' width="69 px"></img>
       </div>
     )
   }
