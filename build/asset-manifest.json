@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OverWatch-NewsApp/static/css/main.31d6cfe0.css",
+    "main.js": "/OverWatch-NewsApp/static/js/main.309e8664.js",
+    "static/js/787.4c026eef.chunk.js": "/OverWatch-NewsApp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading1.gif": "/OverWatch-NewsApp/static/media/loading1.ec0a3b6e34032d057dfc.gif",
+    "index.html": "/OverWatch-NewsApp/index.html",
+    "main.309e8664.js.map": "/OverWatch-NewsApp/static/js/main.309e8664.js.map",
+    "787.4c026eef.chunk.js.map": "/OverWatch-NewsApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.309e8664.js"
+  ]
+}
