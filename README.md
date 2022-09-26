@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This webapp is hosted but it is not loading because i am using free version of newsAPI so to see how the webapp look
 i have add a image of the web application.
 
+Image of the OverWatch NewsApp
+![Screenshot (323)](https://user-images.githubusercontent.com/62217310/192317338-7b4123cc-d7ec-4cd8-a341-8da13a526b44.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
