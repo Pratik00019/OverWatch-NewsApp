@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This webapp is hosted but it is not loading because i am using free version of newsAPI so to see how the webapp look
+i have add a image of the web application.
 
 ## Available Scripts
 
